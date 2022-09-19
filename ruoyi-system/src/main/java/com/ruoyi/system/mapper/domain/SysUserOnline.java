@@ -1,4 +1,4 @@
-package com.ruoyi.system.domain;
+package com.ruoyi.system.mapper.domain;
 
 /**
  * 当前在线会话

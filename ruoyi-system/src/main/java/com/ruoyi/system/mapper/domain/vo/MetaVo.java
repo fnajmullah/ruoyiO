@@ -1,4 +1,4 @@
-package com.ruoyi.system.domain.vo;
+package com.ruoyi.system.mapper.domain.vo;
 
 import com.ruoyi.common.utils.StringUtils;
 

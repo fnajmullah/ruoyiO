@@ -1,4 +1,4 @@
-package com.ruoyi.system.domain.vo;
+package com.ruoyi.system.mapper.domain.vo;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import java.util.List;
